@@ -5,7 +5,7 @@ The purpose of this project is to explore Pakistan’s emerging e-commerce marke
 ---
 
 ## Dataset
-- **Source:** Collected from various e-commerce merchants in Pakistan  
+- **Source:** https://www.kaggle.com/datasets/zusmani/pakistans-largest-ecommerce-dataset 
 - **Time period:** March 2016 – August 2018  
 - **Size:** 101 MB (CSV file)  
 - **Unit of Analysis:** E-Commerce Orders  
@@ -20,9 +20,6 @@ The purpose of this project is to explore Pakistan’s emerging e-commerce marke
   - Category  
   - Payment Method  
   - Customer ID  
-
----
-
 ## Dashboards
 1. **Monthly Sales Analysis:** Line chart showing total revenue per month  
 2. **Category Revenue & Units Sold:** Bar chart comparing revenue and units across categories  
@@ -34,14 +31,6 @@ The purpose of this project is to explore Pakistan’s emerging e-commerce marke
 ## Tools Used
 - **Excel**: Pivot Tables, Charts, Conditional Formatting  
 
----
-
-## Screenshots
-![Monthly Sales Analysis](Screenshots/Monthly_Sales_Analysis.png)
-
-> Additional dashboard screenshots can be added here for better visual representation.
-
----
 
 ## Key Insights
 - Highest sales observed in May (example: peak revenue month)  
